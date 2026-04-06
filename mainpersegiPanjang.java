@@ -1,6 +1,6 @@
 /*
-    NAMA/NOBP:HERU ZAKI RYANDA/2501081002
-    DESKRIPSI:PROGRAM Main Persegi Panjang
+    nama: M prabu utungga a 
+    nim : 2501083011
  */
 package Pratikum_30042026;
 
